@@ -169,3 +169,18 @@ a{
     font-size: 20px;
 }
 
+.cuadrado{
+    width: 250x;
+    height: 425px;
+    background: rgb(228, 222, 222);
+    text-align: center;
+    display: inline-flexbox;
+    margin: 25px;
+    border-radius: 27px;
+}
+
+.contenedoor{
+    display: inline-flex;
+    margin-left: 100px;
+    flex-wrap: wrap;
+}
