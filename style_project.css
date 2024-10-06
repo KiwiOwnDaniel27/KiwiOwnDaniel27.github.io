@@ -188,18 +188,18 @@ a{
 .cuadrado{
     transition: box-shadow 0.3s ease;
     background-color: rgb(228, 222, 222);
-    margin: 1rem 0;
+    margin: 27px;
     border-radius: 0.5rem;
-    padding: 25px;
+    padding: 0.25rem 0;
     cursor: url(IMG/Designer-_7_.png),
     auto;
 }
 
 a{
     transition: box-shadow 0.3s ease;
-    margin: 1rem 0;
+    margin: 27px;
     border-radius: 0.5rem;
-    padding: 25px;
+    padding: 0.25rem 0;
     cursor: url(IMG/Designer-_7_.png),
     auto;
 }
