@@ -180,7 +180,7 @@ a{
 
 .contenedoor{
     display: inline-flex;
-    margin-left: 100px;
+    margin-left: 50px;
     flex-wrap: wrap;
     justify-content: center;
 }
