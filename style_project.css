@@ -3,7 +3,6 @@ html{
     background: linear-gradient(rgba(112, 113, 117, 0.75), rgba(63, 223, 124, 0.75)), url(IMG/Designer\ \(12\).jpeg);
     background-repeat: no-repeat;
     background-position: center;
-    height: 1800px;
     background-attachment: fixed;
     background-size: cover;
 }
